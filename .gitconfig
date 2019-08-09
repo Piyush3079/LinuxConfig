@@ -1,0 +1,10 @@
+[user]
+	email = piyush.v@irage.in
+	name = piyush
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+  interactive = auto
+  ui = true
+  pager = true
